@@ -1,0 +1,9 @@
+Comments in HTML are once written will be there in the code but it does not get render in the web page but instead it serves the purpose to show the information related to the code which can be really helpful for someone who reads or write the code.
+
+Example -
+
+<!-- Heading tag below -->
+<h1>Heading</h1> 
+
+
+

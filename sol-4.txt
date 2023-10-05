@@ -1,0 +1,5 @@
+Tags comes pre-defined in html and each one serves different purpose to render data in a web page tags have their opening and closing (example: <p>content</p>) and there are some tags (example: <img>) which does not required to be closed. The pair of all opening tag, content and closing tag makes a complete element.
+
+Example of a complete element:
+  <h1>This is a heading</h1>
+  (opening - content - closing)

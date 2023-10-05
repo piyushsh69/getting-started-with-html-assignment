@@ -1,0 +1,1 @@
+DOCTYPE declaration is used in html to let the browser know the version of html which ensures perfect rendering in the web page.
